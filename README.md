@@ -30,5 +30,5 @@ chmod +x insta-copyright.sh
 bash insta-copyright.sh
 ```
 
-### Video Tutorial!
-https://youtu.be/mdf7Trj7xlo
+### Video Tutorial!https://youtu.be/mdf7Trj7xlo
+
