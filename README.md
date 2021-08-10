@@ -24,10 +24,10 @@ Usage of insta-copyright for attacking targets without prior mutual consent is i
 
 ### Usage:
 ```
-git clone https://github.com/samadbloch/HumenError.git
-cd HumenError
-chmod +x HumenError.sh
-bash HumenError.sh
+git clone https://github.com/mrravanan/insta-coyright.git
+cd insta-coyright
+chmod +x insta-coyright.sh
+bash insta-coyright.sh
 ```
 
 ### Video Tutorial!
