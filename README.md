@@ -31,3 +31,4 @@ bash insta-copyright.sh
 ```
 
 ### Video Tutorial!
+https://youtu.be/mdf7Trj7xlo
